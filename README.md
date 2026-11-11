@@ -37,12 +37,22 @@ The automated assertions validate:
 - Expected behavior after deletion and archiving.
 - Response time (under 1000 ms).
 
+## Test Execution Results
+
+The Postman collection was executed using the Collection Runner.
+
+The latest execution completed successfully with **zero failed tests**.
+
+![Postman Collection Runner Results](screenshots/postman-runner-results.png)
+
 ## Project Structure
 
 ```text
 Trello-REST-API-Testing/
 ├── Trello APIs.postman_collection.json
-└── README.md
+├── README.md
+└── screenshots/
+    └── postman-runner-results.png
 ```
 
 ## How to Run
