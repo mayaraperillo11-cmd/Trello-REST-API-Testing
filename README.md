@@ -40,8 +40,8 @@ The automated assertions validate:
 ## Project Structure
 
 ```text
-Trello_API_Testing/
-├── Trello_API_Testing.postman_collection.json
+Trello-REST-API-Testing/
+├── Trello APIs.postman_collection.json
 └── README.md
 ```
 
